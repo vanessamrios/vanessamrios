@@ -34,4 +34,5 @@
 
   ### Projetos de orgulho / evolução:
   https://vanessamrios.github.io/pixels-art-trybe/
+  https://vanessamrios.github.io/to-do-list-trybe/
   
