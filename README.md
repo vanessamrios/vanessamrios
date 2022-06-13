@@ -33,6 +33,6 @@
 </div>
 
   ### Projetos de orgulho / evolução:
-  https://vanessamrios.github.io/pixels-art-trybe/
-  https://vanessamrios.github.io/to-do-list-trybe/
+  - Pixel Art: https://vanessamrios.github.io/pixels-art-trybe/
+  - To do list: https://vanessamrios.github.io/to-do-list-trybe/
   
