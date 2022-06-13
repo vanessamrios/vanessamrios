@@ -33,6 +33,7 @@
 </div>
 
   ### Projetos de orgulho / evolução:
-  - Pixel Art: https://vanessamrios.github.io/pixels-art-trybe/
-  - To do list: https://vanessamrios.github.io/to-do-list-trybe/
+  - Primeiro Site (Programaria): https://vanessamrios.github.io/siteada/
+  - Pixel Art (Trybe): https://vanessamrios.github.io/pixels-art-trybe/
+  - To do list (Trybe): https://vanessamrios.github.io/to-do-list-trybe/
   
