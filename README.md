@@ -39,4 +39,5 @@
   - Primeiro Site (Programaria): https://vanessamrios.github.io/siteada/
   - Pixel Art (Trybe): https://vanessamrios.github.io/pixels-art-trybe/
   - To do list (Trybe): https://vanessamrios.github.io/to-do-list-trybe/
+  - Shopping cart (Trybe): https://vanessamrios.github.io/shopping-cart-trybe/ 
   
