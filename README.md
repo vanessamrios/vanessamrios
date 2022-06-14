@@ -1,7 +1,10 @@
 ### Hi there, I'm Vanessa.
 
-- 🌱 I’m currently learning software development...
-- 😄 Pronouns: she/her...
+- :seedling: I’m a Software Development studant at [Trybe](https://github.com/betrybe)
+- 🧠 Currently learning Typescript
+- 😄 Pronouns: she/her
+- :speech_balloon: Ask me about my dog
+- :joy: Fun fact: I used to be afraid of dogs
 
 <div align="display: inline_block">
   <a href="https://github.com/vanessamrios">
