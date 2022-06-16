@@ -36,8 +36,10 @@
 </div>
 
   ### Projetos de orgulho / evolução:
-  - Primeiro Site (Programaria): https://vanessamrios.github.io/siteada/
-  - Pixel Art (Trybe): https://vanessamrios.github.io/pixels-art-trybe/
-  - To do list (Trybe): https://vanessamrios.github.io/to-do-list-trybe/
+  
+  - Wallet (Trybe): https://wallet-trybe.vercel.app/
   - Shopping cart (Trybe): https://vanessamrios.github.io/shopping-cart-trybe/ 
+  - To do list (Trybe): https://vanessamrios.github.io/to-do-list-trybe/
+  - Pixel Art (Trybe): https://vanessamrios.github.io/pixels-art-trybe/
+  - Primeiro Site (Programaria): https://vanessamrios.github.io/siteada/
   
