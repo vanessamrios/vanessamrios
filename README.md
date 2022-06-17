@@ -37,6 +37,7 @@
 
   ### Projetos de orgulho / evolução:
   
+  - StarWars Planets Search: https://starwarsplanets-trybe.vercel.app/
   - Wallet (Trybe): https://wallet-trybe.vercel.app/
   - Shopping cart (Trybe): https://vanessamrios.github.io/shopping-cart-trybe/ 
   - Formulário Warts School: https://vanessamrios.github.io/formwarts-trybe/
