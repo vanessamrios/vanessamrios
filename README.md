@@ -1,6 +1,6 @@
 ### Hi there, I'm Vanessa.
 
-- :seedling: I’m a Software Development studant at [Trybe](https://github.com/betrybe)
+- :seedling: I’m a newly graduated in Software Development at [Trybe](https://github.com/betrybe)
 - 🧠 Currently learning Typescript
 - 😄 Pronouns: she/her
 - :speech_balloon: Ask me about my dog
