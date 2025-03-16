@@ -1,7 +1,7 @@
 ### Hi there, I'm Vanessa.
 
-- :seedling: I’m a newly graduated in Software Development at [Trybe](https://github.com/betrybe)
-- 🧠 Currently studyng Google Data Analytics Certificate
+- :seedling: I’m software developer, graduated in 2022 Software Development at [Trybe](https://github.com/betrybe) and working in the area since 2023 in a spanish IT consulting.
+- 🧠 Currently studyng Java
 - 😄 Pronouns: she/her
 - :speech_balloon: Ask me about my dog
 - :joy: Fun fact: I used to be afraid of dogs
