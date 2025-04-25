@@ -1,7 +1,7 @@
 ### Hi there, I'm Vanessa.
 
 - :seedling: I’m software developer, graduated in 2022 Software Development at [Trybe](https://github.com/betrybe) and working in the area since 2023 in a spanish IT consulting.
-- 🧠 Currently studyng Java
+- 🧠 Currently working in a c# desktop application y studyng Java
 - 😄 Pronouns: she/her
 - :speech_balloon: Ask me about my dog
 - :joy: Fun fact: I used to be afraid of dogs
@@ -35,13 +35,13 @@
   
 </div>
 
-  ### Projetos de orgulho / evolução:
+  ### Studying projects:
   
   - StarWars Planets Search: https://starwarsplanets-trybe.vercel.app/
   - Wallet (Trybe): https://wallet-trybe.vercel.app/
   - Shopping cart (Trybe): https://vanessamrios.github.io/shopping-cart-trybe/ 
-  - Formulário Warts School: https://vanessamrios.github.io/formwarts-trybe/
-  - To do list (Trybe): https://vanessamrios.github.io/to-do-list-trybe/
+  - Form Warts School: https://vanessamrios.github.io/formwarts-trybe/
+  - ToDo list (Trybe): https://vanessamrios.github.io/to-do-list-trybe/
   - Pixel Art (Trybe): https://vanessamrios.github.io/pixels-art-trybe/
-  - Primeiro Site (Programaria): https://vanessamrios.github.io/siteada/
+  - First WebSite (Programaria): https://vanessamrios.github.io/siteada/
   
